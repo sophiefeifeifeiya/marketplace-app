@@ -1,5 +1,7 @@
 # Market app
 
+The following is the features.
+
 + Complete login registration system with email confirmation, forgot and reset passwords
 + JWT based authentication, authorization with refresh token
 + AWS services such as IAM (Identity and access management) S3 (Simple storage service) and SES (Simple email service)
